@@ -1,0 +1,21 @@
+.score-card{
+    background-color: white;
+    color: black;
+    padding: 30px;
+    height: 350px;
+    width: 60%;
+    border-left: 8px solid #463a8d9f;
+    text-align: center;
+}
+.result-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.score-analysis{
+    display: flex;
+    justify-content: space-between;
+}
+.result-card{
+    height: 100vh;
+}

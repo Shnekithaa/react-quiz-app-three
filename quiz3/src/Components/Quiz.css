@@ -1,0 +1,46 @@
+.container{
+    background-color: #473A8D;
+    margin-left: 90px;
+    height: 100vh;
+    margin-top: 4%;
+}
+.card{
+    background-color: white;
+    text-align: center;
+    height: 500px;
+    width: 90%;
+    color: black;
+    padding: 30px;
+}
+h3{
+    text-align: left;
+}
+h2{
+    margin-bottom: 90px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+button{
+    border-radius: 30px;
+    border-width: 0;
+    padding: 10px;
+    color: white;
+    height: 40px;
+    width: 90%;
+    margin-right: 20px;
+    background-color: #1EA1F1;
+}
+.bottom-buttons{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+.bottom-buttons button{
+    width: 150px;
+    height: 40px;
+    border-radius: 0;
+    color: black;
+}
